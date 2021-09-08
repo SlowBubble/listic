@@ -4,6 +4,10 @@ Listic is a Chrome extension that turns long text into more readable checklists.
 
 The goal is make reading more pleasant and productive.
 
+## Demo
+
+https://slowbubble.github.io/listic/demo.html
+
 ## Chrome Extension Description
 
 Listic makes articles easier to read and to bookmark by:
