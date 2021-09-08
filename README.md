@@ -1,6 +1,6 @@
 # Listic
 
-Listic is a Chrome extension that turns long text into more readable checklists.
+Listic is a [Chrome extension](https://chrome.google.com/webstore/detail/listic/oofikclpkdpchmldlppdcmkgofehollo?utm_source=chrome-ntp-icon) that turns long text into more readable checklists.
 
 The goal is make reading more pleasant and productive.
 
